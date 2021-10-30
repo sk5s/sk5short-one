@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sk5short one</title>
+</head>
+<body>
+  <noscript>
+    <h1>This site need javascript to redirect. If javascript is disabled then you need to view site source script tag. Address book is in there.</h1>
+  </noscript>
+
+  <script>
+    let params = new URLSearchParams(location.search);
+    let redirect = params.get('r')
+
+    let defaultLink = 'https://www.sk5s.cyou/'
+    let book = {
+      'test' : 'https://lab.sk5s.cyou/',
+      'hcsc' : 'https://hcsc-25th.github.io/'
+    }
+    if (redirect !== null && book[redirect] !== '' && book[redirect] !== null) {
+      location.href = book[redirect];
+    } else {
+      location.href = defaultLink;
+    }
+  </script>
+</body>
+</html>
