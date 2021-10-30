@@ -1,8 +1,8 @@
 # sk5short-one
-![](https://img.shields.io/github/v/release/sk5s/sk5short-one)
-![](https://img.shields.io/github/last-commit/sk5s/sk5short-one)
-![](https://img.shields.io/github/license/sk5s/sk5short-one)
-![](https://img.shields.io/github/languages/top/sk5s/sk5short-one)
+![](https://img.shields.io/github/v/release/sk5s/sk5short-one?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/sk5s/sk5short-one?style=for-the-badge)
+![](https://img.shields.io/github/license/sk5s/sk5short-one?style=for-the-badge)
+![](https://img.shields.io/github/languages/top/sk5s/sk5short-one?style=for-the-badge)
 
 sk5short-one make a short link just in a minutes, use javascript to redirect but in one file.
 
