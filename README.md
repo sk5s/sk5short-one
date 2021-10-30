@@ -1,18 +1,7 @@
-# sk5short-one
-![](https://img.shields.io/github/v/release/sk5s/sk5short-one?style=for-the-badge)
-![](https://img.shields.io/github/last-commit/sk5s/sk5short-one?style=for-the-badge)
-![](https://img.shields.io/github/license/sk5s/sk5short-one?style=for-the-badge)
-![](https://img.shields.io/github/languages/top/sk5s/sk5short-one?style=for-the-badge)
+# sk5short-one demo
 
-sk5short-one make a short link just in a minutes, use javascript to redirect but in one file.
+link you can test
 
-[![](https://upload.cc/i1/2021/10/30/D4jrG1.png)](https://github.com/sk5s/sk5short-one/wiki)
-
-```
-     _    ____                        _           _   
- ___| | __ ___| ___   _ __  _ __ ___ (_) ___  ___| |_ 
-/ __| |/ /___ \/ __| | '_ \| '__/ _ \| |/ _ \/ __| __|
-\__ \   < ___) \__ \ | |_) | | | (_) | |  __/ (__| |_ 
-|___/_|\_\____/|___/ | .__/|_|  \___// |\___|\___|\__|
-                     |_|           |__/               
-```
+- [https://www.sk5s.cyou/sk5short-one/?r=jsonapi](https://www.sk5s.cyou/sk5short-one/?r=jsonapi)
+- [https://www.sk5s.cyou/sk5short-one/?r=open-museum](https://www.sk5s.cyou/sk5short-one/?r=open-museum)
+- [https://www.sk5s.cyou/sk5short-one/?r=415289](https://www.sk5s.cyou/sk5short-one/?r=415289)
