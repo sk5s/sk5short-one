@@ -6,7 +6,14 @@
 
 sk5short-one make a short link just in a minutes, use javascript to redirect but in one file.
 
+---
+
 [![](https://upload.cc/i1/2021/10/30/D4jrG1.png)](https://github.com/sk5s/sk5short-one/wiki)
+
+---
+
+[![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://www.sk5s.cyou/)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://www.sk5s.cyou/)
 
 ```
      _    ____                        _           _   
