@@ -15,17 +15,17 @@
     let params = new URLSearchParams(location.search);
     let redirect = params.get('r')
 
-    let defaultLink = 'https://github.com/sk5s/sk5short-one/tree/gh-pages'
+    let defaultLink = 'https://www.sk5s.cyou/'
     let book = {
       'jsonapi' : 'https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json',
       'open-museum' : 'https://openmuseum.tw/muse/exhibition/9ad02983da7b370834943eb67c790717',
       '415289' : 'https://www.gov.tw/taiwan/Default.aspx?s=415289',
       'f' : 'https://www.surveycake.com/s/O9x8Q'
     }
-    if (redirect !== null && book[redirect] !== '' && book[redirect] !== null) {
-      location.href = book[redirect];
+    if (redirect !== null && book[redirect] !== '' && book[redirect] !== undefined) {
+      window.location.replace(book[redirect])
     } else {
-      location.href = defaultLink;
+      window.location.replace(defaultLink)
     }
   </script>
 </body>
