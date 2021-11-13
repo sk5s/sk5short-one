@@ -19,10 +19,10 @@
     let book = {
       'test' : 'https://lab.sk5s.cyou/'
     }
-    if (redirect !== null && book[redirect] !== '' && book[redirect] !== null) {
-      location.href = book[redirect];
+    if (redirect !== null && book[redirect] !== '' && book[redirect] !== undefined) {
+      window.location.replace(book[redirect])
     } else {
-      location.href = defaultLink;
+      window.location.replace(defaultLink)
     }
   </script>
 </body>
