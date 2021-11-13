@@ -25,3 +25,5 @@ sk5short-one make a short link just in a minutes, use javascript to redirect but
 |___/_|\_\____/|___/ | .__/|_|  \___// |\___|\___|\__|
                      |_|           |__/               
 ```
+
+🔗 [https://git.io/sk5short-one](https://git.io/sk5short-one)
