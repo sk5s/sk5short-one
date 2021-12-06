@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/license/sk5s/sk5short-one?style=for-the-badge)
 ![](https://img.shields.io/github/languages/top/sk5s/sk5short-one?style=for-the-badge)
 
-sk5short-one make a short link just in a minutes, use javascript to redirect but in one file.
+快速製作簡易短連結檔案，只要一個html就可以快速完成多個短連結，使用javascript重新導向，不用後端程式，sk5short-one make a short link just in a minutes, use javascript to redirect but in one file.
 
 ---
 
